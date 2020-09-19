@@ -1,0 +1,38 @@
+body {
+    font-family: 'Do Hyeon', sans-serif;
+}
+.content {
+    width: 60%;
+}
+.header {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+.error-message {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 1em;
+}
+.menu {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    display: inline-block;
+    padding: 1em;
+}
+
+.title {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#profile-image {
+    width: 100%;
+    border-radius: 50%;
+    float: right;
+}
